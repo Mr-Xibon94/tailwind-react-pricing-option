@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "price": 199,
+        "currency": "BDT",
+        "duration": "month",
+        "quality": "SD",
+        "screens": 1,
+        "download": false,
+        "ads": true,
+        "popular": false,
+        "features": [
+            "Watch on 1 device at a time",
+            "Standard Definition (SD)",
+            "Limited content library",
+            "Ads included",
+            "No offline downloads",
+            "Mobile & Web access"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard",
+        "price": 399,
+        "currency": "BDT",
+        "duration": "month",
+        "quality": "HD",
+        "screens": 2,
+        "download": true,
+        "ads": false,
+        "popular": true,
+        "features": [
+            "Watch on 2 devices simultaneously",
+            "High Definition (HD)",
+            "Full content library",
+            "No ads",
+            "Offline downloads available",
+            "Mobile, Web & Smart TV access"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium",
+        "price": 699,
+        "currency": "BDT",
+        "duration": "month",
+        "quality": "Full HD / 4K",
+        "screens": 4,
+        "download": true,
+        "ads": false,
+        "popular": false,
+        "features": [
+            "Watch on 4 devices simultaneously",
+            "Ultra HD (4K) available",
+            "Full content + exclusive releases",
+            "No ads",
+            "Offline downloads",
+            "All platform access (Mobile, Web, TV, Tablet)"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Family",
+        "price": 999,
+        "currency": "BDT",
+        "duration": "month",
+        "quality": "4K + HDR",
+        "screens": 6,
+        "download": true,
+        "ads": false,
+        "popular": false,
+        "features": [
+            "Up to 6 devices at the same time",
+            "4K + HDR streaming",
+            "Kids profile & parental controls",
+            "Exclusive family content",
+            "Offline downloads",
+            "Priority customer support"
+        ]
+    }
+]
